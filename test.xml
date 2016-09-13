@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Wiedergabeliste</title>
+	<trackList>
+		<track>
+			<location>http://r5---sn-5hn7ym7s.googlevideo.com/videoplayback?id=o-AMQ2s0t6bCOy7snWAiRfuXsCENttdhDTw-0LE10js08l&amp;key=yt5&amp;upn=GfmM36U4ihg&amp;expire=1405134000&amp;sparams=id%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&amp;initcwndbps=785000&amp;itag=22&amp;ms=au&amp;source=youtube&amp;ratebypass=yes&amp;mv=m&amp;signature=749F48C3DC1E01B9DFAD26B2147EEB43D82C0314.308E3A0A5D74DA94DF0DA68154BA5891FEC44408&amp;sver=3&amp;ipbits=0&amp;mws=yes&amp;fexp=902408%2C913587%2C924213%2C924217%2C924222%2C930008%2C934024%2C934030%2C934804%2C935668%2C936927%2C951501&amp;ip=87.152.142.120&amp;mt=1405110543&amp;nh=EAI</location>
+			<title>Fish ~ Silent Cruise - GitS SAC OST 1</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/_8xh0PzJLog/default.jpg</image>
+			<duration>444151</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=lWhM_x_g6p4</location>
+			<title>Inner Universe - GitS SAC OST 1</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/lWhM_x_g6p4/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=eWfQLNeb9Oo</location>
+			<title>Stay Home - GitS SAC OST 1</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/eWfQLNeb9Oo/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=PWQOV1IBo70</location>
+			<title>Lithium Flower - GitS SAC OST 1</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/PWQOV1IBo70/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=j8QQDFJ_D-E</location>
+			<title>Velveteen - GitS SAC OST 1</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/j8QQDFJ_D-E/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=nps2RIU5PdU</location>
+			<title>Siberian Doll House - GitS SAC OST 1</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/nps2RIU5PdU/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=HB9M-NWzGuM</location>
+			<title>Train Search - GitS SAC OST 1</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/HB9M-NWzGuM/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=UglRpCGYdpc</location>
+			<title>Where Does This Ocean Go - GitS SAC OST 1</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/UglRpCGYdpc/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=sX8JHTL5owQ</location>
+			<title>Surf - GitS SAC OST 1</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/sX8JHTL5owQ/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=bvXUhafqnG0</location>
+			<title>Stamina Rose - GitS SAC OST 1</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/bvXUhafqnG0/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=1Bvw1IVavhY</location>
+			<title>Yakitori - GitS SAC OST 1</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/1Bvw1IVavhY/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=UKxmrUHa_wk</location>
+			<title>Run Rabbit Junk - GitS SAC OST 1</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/UKxmrUHa_wk/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=8V6DxFOTULo</location>
+			<title>We Can&#39;t Be Cool - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/8V6DxFOTULo/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=qIR8UEpMUJQ</location>
+			<title>I Do - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/qIR8UEpMUJQ/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=WNOGjdFJ5Fg</location>
+			<title>To Tell the Truth - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/WNOGjdFJ5Fg/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=ZFaZyp51EM0</location>
+			<title>Security Off - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/ZFaZyp51EM0/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=qtu5_UoHsHE</location>
+			<title>Pet Food - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/qtu5_UoHsHE/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=YSj91yopjDg</location>
+			<title>Living Inside the Shell - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/YSj91yopjDg/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=dcaqjoUslrY</location>
+			<title>What&#39;s it For - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/dcaqjoUslrY/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=e49QVUXUH48</location>
+			<title>Psychedelic Soul - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/e49QVUXUH48/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=Oxu6fyY4MPw</location>
+			<title>Go DA DA - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/Oxu6fyY4MPw/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=YRMrcH_550k</location>
+			<title>GET9 - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/YRMrcH_550k/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=IhE_vjgWXnw</location>
+			<title>Gonna Rice - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/IhE_vjgWXnw/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=mdXT2m7oMgs</location>
+			<title>3tops - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/mdXT2m7oMgs/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=cqk_f2DAjbs</location>
+			<title>I Can&#39;t Be Cool - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/cqk_f2DAjbs/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=Uc2tw5sw-fg</location>
+			<title>Idoling - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/Uc2tw5sw-fg/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=xjTPtGlhfbw</location>
+			<title>Ride on Technology - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/xjTPtGlhfbw/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=q8w5PzO4Dxw</location>
+			<title>Rise - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/q8w5PzO4Dxw/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=mfUpn6pJFrs</location>
+			<title>Cyberbird - GitS SAC OST 2</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/mfUpn6pJFrs/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=XKMekQ_sfXo</location>
+			<title>Part 16 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/XKMekQ_sfXo/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=NZLaKXA07as</location>
+			<title>Part 15 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/NZLaKXA07as/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=G1nfAx_0bH0</location>
+			<title>Part 14 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/G1nfAx_0bH0/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=rReWSlA9P5I</location>
+			<title>Part 13 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/rReWSlA9P5I/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=WilsUqJ53sc</location>
+			<title>Part 12 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/WilsUqJ53sc/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=AKJ9XOX8xKM</location>
+			<title>Part 11 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/AKJ9XOX8xKM/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=Xo63W0mXHRE</location>
+			<title>Part 10 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/Xo63W0mXHRE/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=uqulRw-V4po</location>
+			<title>Part 9 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/uqulRw-V4po/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=_Q2l1ZzvG3k</location>
+			<title>Part 8 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/_Q2l1ZzvG3k/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=kNAAC3dTR3U</location>
+			<title>Part 7 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/kNAAC3dTR3U/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=pOHyMPHgS-s</location>
+			<title>Part 6 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/pOHyMPHgS-s/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=5MWxigvslAs</location>
+			<title>Part 5 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/5MWxigvslAs/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=o9g9mdnNLL4</location>
+			<title>Part 4 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/o9g9mdnNLL4/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=eUGSrr2KXPQ</location>
+			<title>Part 3 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/eUGSrr2KXPQ/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=CeGQFnHEFc8</location>
+			<title>Part 2 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/CeGQFnHEFc8/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=ShZ2c267FSs</location>
+			<title>Tachikoma Suicide Song - Bokura wa Minna Ikiteiru (We Are All Alive)</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/ShZ2c267FSs/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=Sjbb5Pi_TZs</location>
+			<title>Part 1 - GitS SAC OST 4</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/Sjbb5Pi_TZs/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=niWW4iUByMs</location>
+			<title>Break Through (HD) - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/niWW4iUByMs/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=MBAsyCH-Eck</location>
+			<title>Laser Seeker (HD) - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/MBAsyCH-Eck/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=oRcmwT-Yr7M</location>
+			<title>Know your Enemy (HD) - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/oRcmwT-Yr7M/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=sDIqjeHN_ds</location>
+			<title>Torukia (HD) - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/sDIqjeHN_ds/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=rfoh7IB1Wew</location>
+			<title>The End of All You&#39;ll Know (HD) - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/rfoh7IB1Wew/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=zLiWov6aAKc</location>
+			<title>Dew - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/zLiWov6aAKc/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=n-jqv6uNBjs</location>
+			<title>Flashback Memory Stick - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/n-jqv6uNBjs/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=fCcE6jMq5YY</location>
+			<title>Smile - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/fCcE6jMq5YY/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=vB2ZLvicnOw</location>
+			<title>35.7c - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/vB2ZLvicnOw/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=1MqqpwOovkA</location>
+			<title>Dear John - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/1MqqpwOovkA/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=5cvYnk1Dqa0</location>
+			<title>Sacred Terrorist - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/5cvYnk1Dqa0/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=N1AYMNkfU1c</location>
+			<title>Access All Areas - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/N1AYMNkfU1c/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=FOsPdGiYYC4</location>
+			<title>CHRisTmas in the SiLenT ForeSt - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/FOsPdGiYYC4/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=kz6VC71WTQ4</location>
+			<title>Mikansei Love Story (Incomplete Love Story) - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/kz6VC71WTQ4/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=bNfqZRqSJA0</location>
+			<title>Hantou No Higashi (East of the Peninsula) - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/bNfqZRqSJA0/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=6VA3M7YQzrI</location>
+			<title>Europe - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/6VA3M7YQzrI/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=WWeMVNEwMAA</location>
+			<title>Flying Low - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/WWeMVNEwMAA/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=JOJmKKGzF8Q</location>
+			<title>Break Though - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/JOJmKKGzF8Q/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=SxVOi8ThTmw</location>
+			<title>Laser Seeker - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/SxVOi8ThTmw/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=DiesDxPkYmM</location>
+			<title>Know your Enemy - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/DiesDxPkYmM/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=nO4AGB6-O9s</location>
+			<title>Torukia - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/nO4AGB6-O9s/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=T1rsERVlhyQ</location>
+			<title>The End of All You&#39;ll Know - GitS SAC OST 3</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/T1rsERVlhyQ/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=rM273H71yJI</location>
+			<title>Remedium - Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/rM273H71yJI/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=4h6dB3-b7yY</location>
+			<title>Take a Little Hand - Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/4h6dB3-b7yY/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=smhh1n3VEp8</location>
+			<title>Date of Rebirth - Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/smhh1n3VEp8/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=9DkrssiaRd0</location>
+			<title>Human step ~ aramaki&#39;s theme - Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/9DkrssiaRd0/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=mtMlMCXTCGY</location>
+			<title>Blues in the Net - Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/mtMlMCXTCGY/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=QHP5_awxHlE</location>
+			<title>Undivided - Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/QHP5_awxHlE/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=I8OVH5AsuQA</location>
+			<title>From The Roof Top~Somewhere in the Silence (Sniper&#39;s Theme) - SSS OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/I8OVH5AsuQA/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=CcPb0Ck7XIo</location>
+			<title>She is - Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/CcPb0Ck7XIo/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=TQeUOEyvCdc</location>
+			<title>Born Stubborn - Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/TQeUOEyvCdc/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=I-eVSebGllo</location>
+			<title>Tempest - Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/I-eVSebGllo/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=AuWosgXzrs4</location>
+			<title>Solid State Society - Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/AuWosgXzrs4/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=gWRQdArf5q0</location>
+			<title>Zero Signal- Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/gWRQdArf5q0/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=YtqMOKuUNHs</location>
+			<title>Replica - Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/YtqMOKuUNHs/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=AIbzZPePNKg</location>
+			<title>Player - Solid State Society OST</title>
+			<creator>Togusa</creator>
+			<image>http://i1.ytimg.com/vi/AIbzZPePNKg/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+			<vlc:item tid="80"/>
+			<vlc:item tid="81"/>
+	</extension>
+</playlist>
