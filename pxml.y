@@ -78,6 +78,7 @@ void yyerror(const char *msg);
 %%
 
 xml: whites processing_tag root
+	| content whites processing_tag root
 
 whites: {$$ = (char*)malloc(sizeof(char)); $$[0] = '\0';}
 	| whites WHITE {$$=0; char w[2]={0,}; w[0] = $2; str_add(&$$, $1); str_add(&$$, w); if($1) free($1);}
