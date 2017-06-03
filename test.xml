@@ -2,8 +2,8 @@
 <playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
 	<title>Wiedergabeliste</title>
 	<trackList>
-		<track>
-			<location>http://r5---sn-5hn7ym7s.googlevideo.com/videoplayback?id=o-AMQ2s0t6bCOy7snWAiRfuXsCENttdhDTw-0LE10js08l&amp;key=yt5&amp;upn=GfmM36U4ihg&amp;expire=1405134000&amp;sparams=id%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&amp;initcwndbps=785000&amp;itag=22&amp;ms=au&amp;source=youtube&amp;ratebypass=yes&amp;mv=m&amp;signature=749F48C3DC1E01B9DFAD26B2147EEB43D82C0314.308E3A0A5D74DA94DF0DA68154BA5891FEC44408&amp;sver=3&amp;ipbits=0&amp;mws=yes&amp;fexp=902408%2C913587%2C924213%2C924217%2C924222%2C930008%2C934024%2C934030%2C934804%2C935668%2C936927%2C951501&amp;ip=87.152.142.120&amp;mt=1405110543&amp;nh=EAI</location>
+		<!--<track>
+			 <location>http://r5---sn-5hn7ym7s.googlevideo.com/videoplayback?id=o-AMQ2s0t6bCOy7snWAiRfuXsCENttdhDTw-0LE10js08l&amp;key=yt5&amp;upn=GfmM36U4ihg&amp;expire=1405134000&amp;sparams=id%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Cratebypass%2Csource%2Cupn%2Cexpire&amp;initcwndbps=785000&amp;itag=22&amp;ms=au&amp;source=youtube&amp;ratebypass=yes&amp;mv=m&amp;signature=749F48C3DC1E01B9DFAD26B2147EEB43D82C0314.308E3A0A5D74DA94DF0DA68154BA5891FEC44408&amp;sver=3&amp;ipbits=0&amp;mws=yes&amp;fexp=902408%2C913587%2C924213%2C924217%2C924222%2C930008%2C934024%2C934030%2C934804%2C935668%2C936927%2C951501&amp;ip=87.152.142.120&amp;mt=1405110543&amp;nh=EAI</location>
 			<title>Fish ~ Silent Cruise - GitS SAC OST 1</title>
 			<creator>Togusa</creator>
 			<image>http://i1.ytimg.com/vi/_8xh0PzJLog/default.jpg</image>
@@ -42,7 +42,7 @@
 				<vlc:id>3</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
-		</track>
+		</track>-->
 		<track>
 			<location>http://www.youtube.com/watch?v=j8QQDFJ_D-E</location>
 			<title>Velveteen - GitS SAC OST 1</title>

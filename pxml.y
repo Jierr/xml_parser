@@ -129,6 +129,7 @@ content: content LETTER {$$=0; char w[2]={0,}; w[0] = $2; str_add(&$$, $1); str_
 	| OTHER {$$=0; char w[2]={0,}; w[0] = $1; str_add(&$$, w);}
 	;
 
+
 attribute: attribute whites name EQ PARANTH value PARANTH whites{
 		xctx.curr_str="";
 		xctx.curr_str+=$1;
@@ -187,12 +188,36 @@ value: value LETTER {$$=0; char w[2]={0,}; w[0] = $2; str_add(&$$, $1); str_add(
 	| WHITE {$$=0; char w[2]={0,}; w[0] = $1; str_add(&$$, w);}
 	| OTHER {$$=0; char w[2]={0,}; w[0] = $1; str_add(&$$, w);}
 	;
-
-comment_tag: COMMENT_START content COMMENT_END {
-		cout<< "[" << xctx.line << "]	" << "Found comment tag::"<< $2 << endl; 
-		if($2)
-			free($2); 
-		$2=0;
+comment_content: comment_content LETTER
+	| comment_content DIGIT
+	| comment_content EQ
+	| comment_content PARANTH
+	| comment_content WHITE
+	| comment_content OTHER
+	| comment_content PROCESSING_START
+	| comment_content PROCESSING_END
+	| comment_content COMMENT_START
+	| comment_content NORMAL_END_START
+	| comment_content EMPTY_END
+	| comment_content NORMAL_START
+	| comment_content NORMAL_END
+	| LETTER
+	| DIGIT
+	| EQ
+	| PARANTH
+	| WHITE
+	| OTHER
+	| PROCESSING_START
+	| PROCESSING_END
+	| COMMENT_START
+	| NORMAL_END_START
+	| EMPTY_END
+	| NORMAL_START
+	| NORMAL_END
+	;
+	
+comment_tag: COMMENT_START comment_content COMMENT_END {
+		cout<< "[" << xctx.line << "]	" << "Found comment tag"<< endl;
 	}
 	;
 
